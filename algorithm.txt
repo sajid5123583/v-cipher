@@ -1,0 +1,28 @@
+ref - https://www.youtube.com/watch?v=LaWp_Kq0cKs
+
+keep a freq list of english alphabets
+
+find length
+	for i in range(1, length(str))
+		shift the array by i
+		see which elements match
+		store the number of matches in an array
+	find the big numbers
+	see how far they are apart (this is = length)
+	return  length
+
+find key
+	for i in range(0, length - 1)(=range)
+		take all str[i + range]
+
+		find their frequencies ( = freq)
+
+		for j in range(0, length of english alphabet)
+
+			align freq(shifted by k) and englishFreq
+			multiply the frequencies and sum them
+
+		find the greatest sum
+		store it as key[i]
+
+decipher

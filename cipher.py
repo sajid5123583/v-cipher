@@ -45,8 +45,8 @@ def shift_compare(cipherText, shiftLength):
 	return numMatch
 
 cipherText = raw_input("Enter the cipher text: ")
-numbers = map(int, cipherText.split())
-print str(calc_std_dev(cipherText))
+# numbers = map(int, cipherText.split())
+print str(calc_std_dev([6, 3, 2, 1]))
 # get_length(cipherText)
 
 

@@ -4,9 +4,9 @@ How to make and use different modules in python
 	OOP in python
 
 Get some actual vegnere ciphered text to test on
-How to read from file in python
-How to make a dictionary in python
-
+How to read from file in python - DONE
+How to make a dictionary in python - DONE
+How to debug in python - DONE - use pdb
 
 --------------------------------
 -- Medium priority

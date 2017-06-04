@@ -12,17 +12,18 @@ find length
 	return  length
 
 find key
-	for i in range(0, length - 1)(=range)
-		take all str[i + range]
+	for keyIndex in 0..key_len - 1
+		for i in range(0, length - 1)(=range)
+			take all str[i + range]
 
-		find their frequencies ( = freq)
+			find their frequencies ( = freq)
 
-		for j in range(0, length of english alphabet)
+			for j in range(0, length of english alphabet)
 
-			align freq(shifted by k) and englishFreq
-			multiply the frequencies and sum them
+				align freq(shifted by k) and englishFreq
+				multiply the frequencies and sum them
 
-		find the greatest sum
-		store it as key[i]
+			find the greatest sum
+			store it as key[i]
 
 decipher

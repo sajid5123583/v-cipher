@@ -1,0 +1,16 @@
+-- High priority
+How to make and use different modules in python 
+	Make a maths and a reader module/class in python
+	OOP in python
+
+Get some actual vegnere ciphered text to test on
+
+
+--------------------------------
+-- Medium priority
+
+
+--------------------------------
+-- Low priority 
+How to find out which cipher the text is
+How to make GUI in python

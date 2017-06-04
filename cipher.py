@@ -72,6 +72,12 @@ def shift_compare(cipherText, shiftLength):
 
 	return numMatch
 
+# Given a text file, reads the frequencies of the letters
+# and stores them in a dictionary
+def read_freq(fileName):
+	freqFile = open(str(fileName))
+	text = freqFile.read() # text now contains all the characters of freqFile. Wonder if there is a better way
+
 cipherText = raw_input("Enter the cipher text: ")
 # numbers = map(int, cipherText.split())
 # print str(calc_std_dev([55, 15, 13, 12, 45, 16, 19, 14, 53, 18, 14, 12, 63]))

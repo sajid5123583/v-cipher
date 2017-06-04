@@ -1,6 +1,6 @@
 -- High priority
 How to make and use different modules in python 
-	Make a maths and a reader module/class in python
+	Make a maths and a reader module/class in python - DONE
 	OOP in python
 
 Get some actual vegnere ciphered text to test on

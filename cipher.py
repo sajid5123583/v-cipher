@@ -1,10 +1,12 @@
 #Function names follow underscore naming convention
 #function arguments are in camelCase
 
+# This is the main module
+
 import read
 import calc
 
-cipherText = raw_input("Enter the cipher text: ")
+cipherText = read.read_cipher_text()
 calc.get_key_length(cipherText)
 
 

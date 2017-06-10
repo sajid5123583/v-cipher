@@ -7,6 +7,7 @@ Get some actual vegnere ciphered text to test on
 How to read from file in python - DONE
 How to make a dictionary in python - DONE
 How to debug in python - DONE - use pdb
+Write a cipherer now and use those test samples to test decipherer
 
 --------------------------------
 -- Medium priority
